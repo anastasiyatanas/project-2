@@ -1,0 +1,69 @@
+body {
+    background-image: url("../images/dariusz-sankowski-56725-unsplash.jpg");
+
+    color: white;
+
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.material-icons {
+    color: white;
+}
+
+.searchBar {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+
+}
+
+.searchBar {
+    color: white;
+}
+.contact{
+    text-align: center;
+}
+
+.section2 {
+
+    padding: 15px;
+    margin: 0 auto;
+    width: 600px;
+    /* border: 1px solid #dddddd; */
+    color: white;
+
+}
+
+.p {
+    font-size: 20px;
+}
+
+.aboutUs {
+    text-align: center;
+    padding: 15px;
+    margin: 0 auto;
+    width: 820px;
+    color: white;
+
+
+}
+
+.space {
+    margin: 40px;
+    padding: 40px;
+}
+.button{
+    background-color: black;
+    color:white;
+}
+.modal-body{
+    color:black;
+}
+.modal-title{
+    color: black;
+}

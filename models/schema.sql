@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS searches_db;
+CREATE DATABASE searches_db;
+
+DROP DATABASE IF EXISTS user_db;
+CREATE DATABASE user_db;

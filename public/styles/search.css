@@ -1,0 +1,17 @@
+body {
+    background-image: url("arthur-edelman-728488-unsplash.jpg");
+    background-color: #cccccc;
+    color: white;
+ }
+ .navbar {
+     font-display: white;
+ }
+ .wi {
+     width: 20%;
+ }
+.btn1 {
+    align-content: center;
+    background: black;
+    margin-left: .5rem!important;
+    margin-right: .5rem!important;
+} 

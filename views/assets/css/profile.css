@@ -1,0 +1,24 @@
+body{
+    background-image: url("../images/francesca-tirico-447208-unsplash.jpg");
+    background-color: #cccccc;
+ }
+ .where {
+     color:white;
+ }
+
+ .hidden {
+    visibility: hidden;
+}
+.nav-link {
+    color:white;
+    
+}
+.searchBar{
+    color:white;
+}
+.navbar-brand {
+    color:white;
+}
+.material-icons{
+    color:white;
+}

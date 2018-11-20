@@ -1,0 +1,100 @@
+/* html {
+    background-image: url("../images/arthur-edelman-728488-unsplash.jpg");
+    background-color: #cccccc;
+    opacity: 0.3;
+    background-size: cover;
+    filter: alpha(opacity=50);
+ } */
+body {
+    height: 100%;
+}
+
+.transparent {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+}
+
+.transparent::after {
+    content: "";
+    background: url("../images/elijah-o-donnell-802353-unsplash.jpg");
+    /* opacity:0.5; */
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+html {
+    height: 100%;
+}
+
+ .navbar {
+    font-display: white;
+    opacity: 1;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+
+}
+
+.material-icons {
+    color: white;
+}
+
+.searchBar {
+    color: white;
+}
+
+#map {
+    height: 30%;
+    width: 30%;
+    margin: 4em 0;
+    padding: 10em;
+    position: absolute;
+    bottom: 1px;
+}
+
+.wi {
+    width: 20%;
+}
+
+.btn1 {
+    align-content: center;
+    background: black;
+    margin-left: .5rem !important;
+    margin-right: .5rem !important;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.where {
+    color:white;
+}
+
+.table{
+    width: 20em;
+    margin: auto;
+    margin-top: 1em;
+}
+
+.searccBtn{
+    color: white;
+    border: none;
+    background-color: transparent;
+}
+
+=======
+    color: white;
+}
+

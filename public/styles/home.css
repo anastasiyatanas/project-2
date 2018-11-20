@@ -1,0 +1,33 @@
+body {
+  background-image: url("globes.jpg");
+  background-color: #cccccc;
+  color: white;
+}
+.navbar {
+   background-color: none;
+   color:white;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.wanderLust {
+  text-align: center;
+  font-size: 120px;
+}
+.description {
+  text-align: center;
+  padding: 15px;
+  margin: 0 auto;
+  width: 820px;
+  border: 2px solid #362e2e;
+}
+.btn1 {
+  align-content: center;
+  background: black;
+  margin-left: .5rem!important;
+  margin-right: .5rem!important;
+}
+
+
